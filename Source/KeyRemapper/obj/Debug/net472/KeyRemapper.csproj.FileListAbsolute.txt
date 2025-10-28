@@ -1,0 +1,10 @@
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\bin\Debug\net472\KeyRemapper.dll
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\bin\Debug\net472\KeyRemapper.pdb
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.csproj.AssemblyReference.cache
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\MyPluginInfo.cs
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.AssemblyInfoInputs.cache
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.AssemblyInfo.cs
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.csproj.CoreCompileInputs.cache
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.dll
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.pdb

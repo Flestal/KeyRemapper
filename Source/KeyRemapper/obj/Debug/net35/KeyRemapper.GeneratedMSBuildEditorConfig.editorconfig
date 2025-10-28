@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = KeyRemapper
+build_property.ProjectDir = E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
