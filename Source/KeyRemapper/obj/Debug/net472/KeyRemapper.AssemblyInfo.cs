@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeyRemapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5cadec33888f1a4ec2d27a8b7e7d4db468cf40d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Keyboard Remap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeyRemapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

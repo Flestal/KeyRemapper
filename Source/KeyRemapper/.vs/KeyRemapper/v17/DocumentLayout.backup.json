@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\STOVE\\Games\\ellejou\\BepInEx\\plugins\\KeyRemapper\\Source\\KeyRemapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{362FE942-67A2-42D8-8F15-D092EBFEDC1D}|KeyRemapper.csproj|e:\\stove\\games\\ellejou\\bepinex\\plugins\\keyremapper\\source\\keyremapper\\inputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{362FE942-67A2-42D8-8F15-D092EBFEDC1D}|KeyRemapper.csproj|solutionrelative:inputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{362FE942-67A2-42D8-8F15-D092EBFEDC1D}|KeyRemapper.csproj|e:\\stove\\games\\ellejou\\bepinex\\plugins\\keyremapper\\source\\keyremapper\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{362FE942-67A2-42D8-8F15-D092EBFEDC1D}|KeyRemapper.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362FE942-67A2-42D8-8F15-D092EBFEDC1D}|KeyRemapper.csproj|e:\\stove\\games\\ellejou\\bepinex\\plugins\\keyremapper\\source\\keyremapper\\inputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362FE942-67A2-42D8-8F15-D092EBFEDC1D}|KeyRemapper.csproj|solutionrelative:inputpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{362FE942-67A2-42D8-8F15-D092EBFEDC1D}|KeyRemapper.csproj|e:\\stove\\games\\ellejou\\bepinex\\plugins\\keyremapper\\source\\keyremapper\\keyremapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 296,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InputPatch.cs",
               "DocumentMoniker": "E:\\STOVE\\Games\\ellejou\\BepInEx\\plugins\\KeyRemapper\\Source\\KeyRemapper\\InputPatch.cs",
               "RelativeDocumentMoniker": "InputPatch.cs",
               "ToolTip": "E:\\STOVE\\Games\\ellejou\\BepInEx\\plugins\\KeyRemapper\\Source\\KeyRemapper\\InputPatch.cs",
               "RelativeToolTip": "InputPatch.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T12:30:43.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Plugin.cs",
               "DocumentMoniker": "E:\\STOVE\\Games\\ellejou\\BepInEx\\plugins\\KeyRemapper\\Source\\KeyRemapper\\Plugin.cs",
               "RelativeDocumentMoniker": "Plugin.cs",
               "ToolTip": "E:\\STOVE\\Games\\ellejou\\BepInEx\\plugins\\KeyRemapper\\Source\\KeyRemapper\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwC4AAABwAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T10:59:55.7Z",
               "EditorCaption": ""
@@ -53,15 +53,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "KeyRemapper",
+              "Title": "KeyRemapper.csproj",
               "DocumentMoniker": "E:\\STOVE\\Games\\ellejou\\BepInEx\\plugins\\KeyRemapper\\Source\\KeyRemapper\\KeyRemapper.csproj",
               "RelativeDocumentMoniker": "KeyRemapper.csproj",
               "ToolTip": "E:\\STOVE\\Games\\ellejou\\BepInEx\\plugins\\KeyRemapper\\Source\\KeyRemapper\\KeyRemapper.csproj",
               "RelativeToolTip": "KeyRemapper.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T10:59:05.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T10:59:05.897Z"
             }
           ]
         }

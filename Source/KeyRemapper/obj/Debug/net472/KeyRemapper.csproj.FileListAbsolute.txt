@@ -8,3 +8,4 @@ E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\
 E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.csproj.CoreCompileInputs.cache
 E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.dll
 E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.pdb
+E:\STOVE\Games\ellejou\BepInEx\plugins\KeyRemapper\Source\KeyRemapper\obj\Debug\net472\KeyRemapper.sourcelink.json
