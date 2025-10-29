@@ -45,7 +45,7 @@ namespace KeyRemapper
             KeyAttack_Secondary = Config.Bind("Actions", "Attack_Secondary", KeyCode.LeftControl, "기본 공격 (보조)");
 
             Harmony.CreateAndPatchAll(typeof(InputPatches));
-            Logger.LogInfo("Key Remapper (Final) has been loaded!");
+            Logger.LogInfo("Key Remapper has been loaded!");
         }
     }
 
